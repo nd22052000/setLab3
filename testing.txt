@@ -1,0 +1,30 @@
+First Round - 30 min
+Second Round -  3 hrs 
+Third Round  -  30 min
+Mode: Fully Online.
+Problem Statement (Example):
+	Design a website or web app or mobile application for a Shopping mall billing system. 
+
+What is the total time for the DEVELOPZILLA Event?
+
+The total time will be approximately 4 hours. And participants will have some short breaks in between rounds.
+
+What technologies the participants can use?
+
+Participants can use any technology with which they are comfortable. Generic problem statements will be given and participants can implement them either in web or mobile applications.
+
+Type of problem statements.
+
+There will be two groups one is a novice and the other is an expert. Novice will have problem statements based on frontend only and experts will have problem statements based on both frontend and backend. Price distribution will be according to the category participants have chosen. Experts will have a higher price than novices. And both types of participants will be judged independently and individually. 
+
+Rounds:
+1. Aptitude.
+2. Implementation based on the problem statement.
+3. The third round will be a presentation of the second round and each member has to present the website or web application or mobile application.
+
+For more doubts contact:
+Sanket Mote: 7756834458
+Parshwa Shah: 8796200905
+Anurag Magdum: 9359913060
+is here
+testing new branch
